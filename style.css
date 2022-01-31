@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+    background-color: rgb(182, 235, 210);
+}
+.header li{
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid blueviolet;
+    padding: 0px 20px;
+    background-color: cadetblue;
+    overflow: hidden;
+}
+.symbol img{
+    margin: 0;
+    width: 75px;
+    
+}
